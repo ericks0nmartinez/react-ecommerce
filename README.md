@@ -17,11 +17,12 @@ create file: ['husky/pre-commit','src/components/Main/index.tsx', 'src/component
 
 run: yarn test
 
-Aula-18
+Aula-19
 
 run: [
   yarn add --dev @types/styled-components babel-plugin-styled-components,
   yarn add styled-components,
 ]
 
-edit file: [ '.babelrc']
+edit file: ['.babelrc']
+create file: ['./pages/_documento']
